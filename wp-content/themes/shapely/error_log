@@ -1,0 +1,1 @@
+[25-Jun-2016 11:21:30 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/vickibernard/public_html/wp-content/themes/shapely/index.php on line 15

@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simona\n"
+"POT-Creation-Date: 2015-11-18 11:35+0100\n"
+"PO-Revision-Date: 2015-11-18 11:36+0100\n"
+"Last-Translator: Pasquale <paky.bucci@gmail.com>\n"
+"Language-Team: Pasquale <paky.bucci@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+msgid "Write your comment here..."
+msgstr ""
+
+#: footer.php:20
+msgid "Follow me on Instagram!"
+msgstr ""
+
+#: footer.php:34
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:34
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: footer.php:35
+#, php-format
+msgid "%1$s Theme, %3$s by %2$s."
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:105
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:113
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:121
+msgctxt "Domine font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:129
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:172
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:49
+msgid "Press enter to search"
+msgstr ""
+
+#: header.php:54
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Header Slider"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Show Tagline in Header Slider"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Tagline Text Color"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Your Instagram username"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Footer Options"
+msgstr ""
+
+#: inc/simona-extras.php:89
+msgid "Your full name"
+msgstr ""
+
+#: inc/simona-extras.php:93
+msgid "Email address"
+msgstr ""
+
+#: inc/simona-extras.php:97
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33 inc/template-tags.php:76
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70 template-parts/content-single.php:56
+msgid " &bull; "
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:96
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Share this"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Tweet this"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Share with Google Plus"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:129 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: index.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-audio.php:21 template-parts/content-gallery.php:21
+#: template-parts/content-single.php:29 template-parts/content-single.php:38
+#: template-parts/content-video.php:21 template-parts/content.php:21
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-audio.php:24
+msgid "Audio Post"
+msgstr ""
+
+#: template-parts/content-gallery.php:24
+msgid "Gallery Post"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:75
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-post-nav.php:16
+msgid "Back to Blog"
+msgstr ""
+
+#: template-parts/content-single.php:58
+#, php-format
+msgid " in %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:69
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-video.php:24
+msgid "Video Post"
+msgstr ""

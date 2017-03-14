@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact\n"
+"POT-Creation-Date: 2014-08-01 12:05-0000\n"
+"PO-Revision-Date: 2014-08-01 12:05-0000\n"
+"Last-Translator: Michael Yunat <Michael.Yunat@gmail.com>\n"
+"Language-Team: http://getvoip.com/\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;esc_html_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../form.php:22
+msgid "Name"
+msgstr "Назва"
+
+#: ../form.php:22 ../form.php:33
+msgid "required"
+msgstr "вимагається"
+
+#: ../form.php:33 ../index.php:37
+msgid "Email"
+msgstr "E-mail"
+
+#: ../form.php:44 ../index.php:35
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../form.php:62
+msgid "Send Message"
+msgstr "Надіслати повідомлення"
+
+#: ../index.php:36
+msgid "Fax"
+msgstr "Факс"
+
+#: ../index.php:38
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: ../index.php:40
+msgid "Address"
+msgstr "Адреса"
+
+#: ../index.php:81
+msgid "Edit Details"
+msgstr "Змінити відомості"
+
+#: ../index.php:128
+msgid ""
+"You must define an email address on the options page in order to display the "
+"contact form."
+msgstr ""
+"Ви повинні визначити адресу електронної пошти на сторінці опцій для того, "
+"щоб відобразити контактну форму."
+
+#: ../index.php:133
+msgid "Sorry, the nonce field provided was invalid."
+msgstr "На жаль, даний випадок поля за умови, був визнаний недійсним."
+
+#: ../index.php:141
+msgid "Please enter your name."
+msgstr "Будь ласка, введіть своє ім'я."
+
+#: ../index.php:147
+msgid "Please enter a valid email address."
+msgstr "Будь ласка, введіть діючий адресу електронної пошти."
+
+#: ../index.php:153
+msgid "Please enter a message."
+msgstr "Будь ласка, введіть повідомлення."
+
+#: ../index.php:164
+msgid "Sorry, your comment failed the blacklist check and could not be sent."
+msgstr ""
+"На жаль, ваш коментар не пройшов перевірку чорний список і не може бути "
+"надіслано."
+
+#: ../index.php:169
+msgid "Sorry, your comment failed the spam check and could not be sent."
+msgstr ""
+"На жаль, ваш коментар не пройшов перевірку із спамом, а не може бути "
+"надіслано."
+
+#: ../index.php:174
+msgid "Your message has been sent."
+msgstr "Ваше повідомлення було надіслано."
+
+#: ../index.php:177
+msgid "Sorry, we were unable to send your message."
+msgstr "На жаль, нам не вдалося відправити повідомлення."
+
+#: ../index.php:247
+msgid "wrote"
+msgstr "писав"
+
+#: ../settings.php:36
+msgid "Save Changes"
+msgstr "Зберегти зміни"

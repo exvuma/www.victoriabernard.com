@@ -1,0 +1,27 @@
+/*
+ Theme Name:   Shapely - Child
+ Theme URI:    http://cololib.com/shapely
+ Description:  Shapely
+ Author:       Victoria Bernard
+ Author URI:   http://victoriabernard.com
+ Template:     shapely
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  shapely-child
+*/
+#nameTitle {
+ font-style: normal !important;
+}
+
+#nameTitle blockquote{
+ font-style: normal !important;
+}
+
+.logo {
+    /* color:purple !important;
+   width: 500px !important;
+    height: 100px;*/
+  
+}

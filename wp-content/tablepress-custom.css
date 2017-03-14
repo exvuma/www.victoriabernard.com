@@ -1,0 +1,113 @@
+/*
+table {
+	border: none;
+	border-collapse: collapse;
+}
+
+table tr {
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none; /* 1px solid #D3D3D3;
+}
+
+table td {
+	border-bottom: 1px solid #000;
+	border-left: none;
+	border-right: none;
+}
+*/
+#resumetable-firstrow td:nth-child(2) {
+	border-left: white !important;
+	border-right: white !important;
+	border-top: white !important;
+	border-bottom: white !important;
+	padding-left: 0;
+}
+
+#resumetable-secondrow td:nth-child(2) {
+	border-left: white !important;
+	border-right: white !important;
+	border-top: white !important;
+	border-bottom: white !important;
+	padding-left: 0;
+}
+
+#resumetable-secondrow td:nth-child(1),
+td:nth-child(3) {
+	border-left: none !important;
+	border-right: none !important;
+	border-top: none !important;
+	border-bottom: white !important;
+	padding-left: 0;
+}
+
+#resumetable-firstrow td:nth-child(1) {
+	border-left: none !important;
+	border-right: none !important;
+	border-top: white 1px solid !important;
+	border-bottom: 1px solid #ccc !important;
+}
+
+#resumetable-firstrow td:nth-child(3) {
+	border-left: none !important;
+	border-right: none !important;
+	border-top: white 1px solid !important;
+	border-bottom: 1px solid #ccc !important;
+}
+
+#quotetable td:nth-child(1),
+td:nth-child(3) {
+	border-left: none !important;
+	border-right: #ddd 1px solid !important;
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+#quotetable td:nth-child(2) {
+	border-left: none !important;
+	border-right: none !important;
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+#quotetable td:nth-child(3) {
+	border-left: #ddd 1px solid !important;
+	border-right: none !important;
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+/*
+#firstrow-resumetable td:nth-child(1),
+td:nth-child(3) {
+	border-left: none !important;
+	border-right: none !important;
+	border-top: none !important;
+	border-bottom: grey !important;
+}
+
+#regrow-resumetable td:nth-child(1),
+td:nth-child(3) {
+	border-left: none !important;
+	border-right: none !important;
+	border-top: none !important;
+	border-bottom: none;
+}
+
+table td:last-child {
+	border-right: none;
+}
+
+.extraclass td
+.extraclass tr {
+	text-align: center;
+	border-right: 1px solid #000;
+	font-size: 50px;
+}
+
+.extraclass2 td:2th-child {
+	text-align: center;
+	border-bottom: 1px solid #fff;
+	font-size: 500px;
+} */
